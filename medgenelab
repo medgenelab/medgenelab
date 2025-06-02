@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>آزمایشگاه ژنتیک پزشکی بهاره</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f8f8f8;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+    }
+    header {
+      background-color: #004466;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 30px;
+    }
+    .services, .contact {
+      background-color: #ffffff;
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 12px;
+      max-width: 800px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      background-color: #004466;
+      color: white;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>آزمایشگاه ژنتیک پزشکی بهاره</h1>
+  <p>ارائه‌دهنده‌ خدمات جامع ژنتیک برای تمامی بیماری‌های ارثی</p>
+</header>
+
+<section class="services">
+  <h2>خدمات ما</h2>
+  <ul>
+    <li>بررسی بیماری‌های ژنتیکی نادر و شایع</li>
+    <li>آزمایش‌های پیش از بارداری و بارداری</li>
+    <li>تعیین جهش‌های ژنتیکی مرتبط با بیماری‌های ارثی</li>
+    <li>مشاوره ژنتیک خانواده</li>
+    <li>تعیین ریسک ابتلا در بستگان</li>
+  </ul>
+</section>
+
+<section class="contact">
+  <h2>تماس با ما</h2>
+  <p><strong>آدرس:</strong> تهران، خیابان مثال، پلاک ۱۲۳</p>
+  <p><strong>تلفن:</strong> 021-xxxxxxx</p>
+  <p><strong>ایمیل:</strong> info@baharehlab.com</p>
+</section>
+
+<footer>
+  <p>© 2025 آزمایشگاه ژنتیک پزشکی بهاره - تمامی حقوق محفوظ است.</p>
+</footer>
+
+</body>
+</html>
